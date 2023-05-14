@@ -24,7 +24,6 @@ function Expenseit(props) {
           <div className="expense-item__price">${props.amount}</div>
         </div>
 
-        <button onClick={click}>Change title </button>
       </Card>
       </li>
       </>
